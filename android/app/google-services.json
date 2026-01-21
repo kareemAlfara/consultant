@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747170477184",
+    "project_id": "consultations-b3ff0",
+    "storage_bucket": "consultations-b3ff0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747170477184:android:ffc2cac6a28bfaec51e265",
+        "android_client_info": {
+          "package_name": "com.example.marriage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2UqwdMhLFVTLGGv6d4E5cvmFpDmWAwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
